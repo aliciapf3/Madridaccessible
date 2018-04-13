@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Madrid accessible</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for parks [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+
+    <!-- Place for the attraction Palacio Real[CHAR LIMIT=20] -->
+    <string name="palacio_real">Palacio Real</string>
+    <string name="description_palacio_real">Palace</string>
+
+    <!-- Place for the attraction Puerta del Sol[CHAR LIMIT=20] -->
+    <string name="puerta_del_sol">Puerta del Sol</string>
+    <string name="description_puerta_del_sol">Monument</string>
+
+    <!-- Place for the attraction Biblioteca Nacional[CHAR LIMIT=20] -->
+    <string name="biblioteca_nacional">Biblioteca Nacional</string>
+    <string name="description_biblioteca_nacional">Public Library</string>
+
+    <!-- Place for the attraction Puerta de Alcala[CHAR LIMIT=20] -->
+    <string name="puerta_de_alcala">Puerta de Alcala</string>
+    <string name="description_puerta_de_alcala">Monument</string>
+
+    <!-- Place for the attraction Catedral La Almudena[CHAR LIMIT=20] -->
+    <string name="catedral_la_almudena">Catedral La Almudena</string>
+    <string name="description_catedral_la_almudena">Church</string>
+
+    <!-- Place for the attraction Cibeles[CHAR LIMIT=20] -->
+    <string name="cibeles">Cibeles</string>
+    <string name="description_cibeles">Monument</string>
+
+    <!-- Place for the attraction Correos[CHAR LIMIT=20] -->
+    <string name="correos">Correos</string>
+    <string name="description_correos">Palace</string>
+
+    <!-- Place for the attraction Templo de Debod[CHAR LIMIT=20] -->
+    <string name="templo_de_debod">Templo de Debod</string>
+    <string name="description_templo_de_debod">Monument</string>
+
+    <!-- Place for the attraction Iglesia Los Jeronimos[CHAR LIMIT=20] -->
+    <string name="iglesia_los_jeronimos">Iglesia Los Jeronimos</string>
+    <string name="description_iglesia_los_jeronimos">Church</string>
+
+
+
+    <!-- Place for the Prado museum[CHAR LIMIT=20] -->
+    <string name="museo_del_prado">Museo del Prado</string>
+    <string name="description_museo_del_prado">Painting</string>
+
+    <!-- Place for the Thyssen museum[CHAR LIMIT=20] -->
+    <string name="museo_thyssen">Museo Thyssen</string>
+    <string name="description_museo_thyssen">Painting</string>
+
+    <!-- Place for the Reina Sofia museum[CHAR LIMIT=20] -->
+    <string name="museo_reina_sofia">Museo Reina Sofia</string>
+    <string name="description_museo_reina_sofia">Painting</string>
+
+    <!-- Place for the Romanticismo museum[CHAR LIMIT=20] -->
+    <string name="museo_del_romanticismo">Museo del Romanticismo</string>
+    <string name="description_museo_del_romanticismo">Artistic movement</string>
+
+    <!-- Place for the Ferrocarril museum[CHAR LIMIT=20] -->
+    <string name="museo_del_ferrocarril">Museo del Ferrocarril</string>
+    <string name="description_museo_del_ferrocarril">Trains history</string>
+
+    <!-- Place for the Nature museum[CHAR LIMIT=20] -->
+    <string name="museo_ciencias_naturales">Museo Ciencias Naturales</string>
+    <string name="description_museo_ciencias_naturales">Nature</string>
+
+    <!-- Place for the Arqueologico museum[CHAR LIMIT=20] -->
+    <string name="museo_arqueologico">Museo Arqueologico</string>
+    <string name="description_museo_arqueologico">History</string>
+
+    <!-- Place for the Traje museum[CHAR LIMIT=20] -->
+    <string name="museo_del_traje">Museo del Traje</string>
+    <string name="description_museo_del_traje">Clothes</string>
+
+
+
+
+    <!-- Place for El Retiro park[CHAR LIMIT=20] -->
+    <string name="parque_del_retiro">El Retiro</string>
+    <string name="description_parque_del_retiro">Public</string>
+
+    <!-- Place for El Capricho park[CHAR LIMIT=20] -->
+    <string name="parque_del_capricho">El Capricho</string>
+    <string name="description_parque_del_capricho">Private</string>
+
+    <!-- Place for Jardin Botanico [CHAR LIMIT=20] -->
+    <string name="jardin_botanico">Jardin Botanico</string>
+    <string name="description_jardin_botanico">Public</string>
+
+    <!-- Place for Jardines del Moro [CHAR LIMIT=20] -->
+    <string name="jardines_del_moro">Jardines del Moro</string>
+    <string name="description_jardines_del_moro">Public</string>
+
+    <!-- Place for Jardines de Sabatini [CHAR LIMIT=20] -->
+    <string name="jardines_de_sabatini">Jardines de Sabatini</string>
+    <string name="description_jardines_de_sabatini">Public</string>
+
+    <!-- Place for La Rosaleda [CHAR LIMIT=20] -->
+    <string name="jardines_de_la_rosaleda">La Rosaleda</string>
+    <string name="description_jardines_de_la_rosaleda">Public</string>
+
+    <!-- Place for Quinta de los Molinos [CHAR LIMIT=20] -->
+    <string name="quinta_de_los_molinos">Quinta de los Molinos</string>
+    <string name="description_quinta_de_los_molinos">Public</string>
+
+    <!-- Place for Casa de Campo [CHAR LIMIT=20] -->
+    <string name="casa_de_campo">Casa de campo</string>
+    <string name="description_casa_de_campo">Public</string>
+
+
+
+    <!-- Place for Platea restaurant [CHAR LIMIT=20] -->
+    <string name="platea">Platea</string>
+    <string name="description_platea">Fusion</string>
+
+    <!-- Place for Sumo restaurant [CHAR LIMIT=20] -->
+    <string name="sumo">Sumo</string>
+    <string name="description_sumo">Japanese</string>
+
+    <!-- Place for Km de pizza restaurant [CHAR LIMIT=20] -->
+    <string name="km_de_pizza">Km de Pizza</string>
+    <string name="description_km_de_pizza">Italian</string>
+
+    <!-- Place for La mordida restaurant [CHAR LIMIT=20] -->
+    <string name="la_mordida">La mordida</string>
+    <string name="description_la_mordida">Mexican</string>
+
+    <!-- Place for Harina restaurant [CHAR LIMIT=20] -->
+    <string name="harina">Harina</string>
+    <string name="description_harina">Mediterranean</string>
+
+    <!-- Place for Nicoletta restaurant [CHAR LIMIT=20] -->
+    <string name="nicoletta">Nicoletta</string>
+    <string name="description_nicoletta">Italian</string>
+
+    <!-- Place for El perro y la galleta restaurant [CHAR LIMIT=20] -->
+    <string name="el_perro_y_la_galleta">El perro y la galleta</string>
+    <string name="description_el_perro_y_la_galleta">International</string>
+
+    <!-- Place for Diverxo restaurant [CHAR LIMIT=20] -->
+    <string name="diverxo">Diverxo</string>
+    <string name="description_diverxo">International</string>
+
+
+</resources>
